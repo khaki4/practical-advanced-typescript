@@ -1,0 +1,3 @@
+interface Jquery {
+  hideChildren(): Jquery;
+}
