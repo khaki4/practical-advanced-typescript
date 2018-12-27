@@ -1,6 +1,8 @@
 {
   "compilerOptions": {
     "strictPropertyInitialization": true,
-    "strictNullChecks": true
+    "strictNullChecks": false,
+    "lib": ["es6", "dom", "dom.iterable"],
+    "downlevelIteration": true
   }
 }
